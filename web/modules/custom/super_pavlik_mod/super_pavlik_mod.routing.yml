@@ -1,0 +1,7 @@
+super_pavlik_mod.example:
+  path: '/example'
+  defaults:
+    _controller: ''
+    _title: 'Example Page'
+  requirements:
+    _permission: 'access content'
